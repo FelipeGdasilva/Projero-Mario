@@ -1,7 +1,7 @@
 ## Projeto-Mario
 O projeto é um site, para assitir o trailer do filme super Mario o filme
 
-<img src="./Animação.gif" alt="e um gif da tela inicial">
+<img src="./animação.gif" alt="e um gif da tela inicial">
 
 
 ## Desafio
